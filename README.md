@@ -1,6 +1,4 @@
 # Real-Time-Palm-Reader
-
-# Real-Time-Palm-Reader
 Summary: Captures real time images of user palm, gives palm line predictions
 
 The application is built using graphics thinker. OpenCV module has been intergerated to capture real time images of user palm. 
